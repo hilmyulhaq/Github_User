@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="searchbar_hint">Mencari Seseorang di Github?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="mode">Mode Dark</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
